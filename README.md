@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Manasvi Avadhanula </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasvi0109&label=Profile%20views&color=0e75b6&style=flat" alt="manasvi0109" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasvi0109" alt="manasvi0109" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, React, Figma, Sketch, Framer**
+- 🌱 I’m currently learning **Adobe XD, Devops, Linux, Jenkins, Docker**
 
-- 💬 Ask me about **Video Editing & Frontend Development**
+- 💬 Ask me about **Video Editing, Frontend Development, Graphic Designing & Python DSA**
 
 - 📫 How to reach me **manasvi010903@gmail.com**
 
-- 📄 Know about my experiences  [Resume](file:///C:/Users/asrim/Downloads/Manasvi%20Avadhanula_Resume.pdf)
+- 📄 Know about my experiences  [Dev-Resume](https://drive.google.com/file/d/1htnrmhsbWS9P9Q7GOtMFJ9b6AvQ9F5E0/view?usp=sharing) [Design-Resume](https://drive.google.com/file/d/1iszw8zhCzSp-G1uFvKLvclVd_Nqds5XN/view?usp=sharing)
 
 - My Webfolio => https://manasvi0109.github.io/My_Portfolio/ 
 
