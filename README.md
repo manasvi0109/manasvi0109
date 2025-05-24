@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;UI%2FUX+Designer;7x+Hackathon+Winner;Software+Trainer" alt="Typing SVG" />
 </div>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=manasvi0109&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
