@@ -131,16 +131,16 @@ I'm a **passionate developer, creative designer, and tech enthusiast** blending 
 
 ---
 
-<!-- Water Wave SVG Footer -->
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/wave-footer/main/wave.svg" alt="wave" style="width:100%; height:auto;" />
+  <svg width="100%" height="120px" viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" >
+    <path fill="#EC81D2" fill-opacity="0.4" d="M0,224L48,213.3C96,203,192,181,288,176C384,171,480,181,576,176C672,171,768,149,864,138.7C960,128,1056,128,1152,144C1248,160,1344,192,1392,208L1440,224L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z" />
+    <path fill="#EC81D2" fill-opacity="0.6" d="M0,192L48,176C96,160,192,128,288,128C384,128,480,160,576,176C672,192,768,192,864,170.7C960,149,1056,107,1152,106.7C1248,107,1344,149,1392,170.7L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z" />
+    <path fill="#EC81D2" fill-opacity="1" d="M0,160L48,149.3C96,139,192,117,288,138.7C384,160,480,224,576,234.7C672,245,768,203,864,181.3C960,160,1056,160,1152,170.7C1248,181,1344,203,1392,213.3L1440,224L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z" />
+  </svg>
 </p>
 
-<!-- Optional Background SVG (Can be used as section background or behind a heading) -->
-<!-- Use only if supported and keep it subtle -->
-<!-- For GitHub, background styling is limited — keep SVGs as visuals only -->
-
-<!-- You can also add a soft thanks note -->
 <p align="center">
   <b>Thanks for stopping by!</b>  
   <br/>
