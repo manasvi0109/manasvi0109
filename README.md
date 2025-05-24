@@ -14,7 +14,8 @@ I'm a **passionate developer, creative designer, and tech enthusiast** blending 
 - 🛠️ Building: A creative portfolio & innovative final-year AI projects  
 - 💬 Ask me about: **Frontend, Design Systems, Video Creation, Python DSA**
 
-📄 [Dev Resume](https://drive.google.com/file/d/1htnrmhsbWS9P9Q7GOtMFJ9b6AvQ9F5E0/view?usp=sharing) | [Design Resume](https://drive.google.com/file/d/1iszw8zhCzSp-G1uFvKLvclVd_Nqds5XN/view?usp=sharing)
+📄 [Dev Resume](https://drive.google.com/file/d/1htnrmhsbWS9P9Q7GOtMFJ9b6AvQ9F5E0/view?usp=sharing) | [Design Resume](https://drive.google.com/file/d/1iszw8zhCzSp-G1uFvKLvclVd_Nqds5XN/view?usp=sharing) | 
+
 🌐 My Portfolio: [manasvi0109.github.io/My_Portfolio](https://manasvi0109.github.io/My_Portfolio/)  
 
 ---
