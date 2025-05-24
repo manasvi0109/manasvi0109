@@ -128,3 +128,22 @@ I'm a **passionate developer, creative designer, and tech enthusiast** blending 
 
 ### 🎬 Fun Fact  
 <p align="center"><em>“I edit timelines, code designs, and build futures — all before coffee.”</em> ☕💻🎨</p>
+
+---
+
+<!-- Water Wave SVG Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/wave-footer/main/wave.svg" alt="wave" style="width:100%; height:auto;" />
+</p>
+
+<!-- Optional Background SVG (Can be used as section background or behind a heading) -->
+<!-- Use only if supported and keep it subtle -->
+<!-- For GitHub, background styling is limited — keep SVGs as visuals only -->
+
+<!-- You can also add a soft thanks note -->
+<p align="center">
+  <b>Thanks for stopping by!</b>  
+  <br/>
+  <em>Keep building, stay curious 🌸</em>
+</p>
+
