@@ -85,8 +85,11 @@
 
 </div>
 
-<h3 align="center">
+
 ### ✍️ Dev Quote
+
+<h3 align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
