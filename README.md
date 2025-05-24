@@ -86,13 +86,14 @@
 </div>
 
 
-### ✍️ Dev Quote
 
-<h3 align="center">
+<div align="center">
+### ✍️ Dev Quote 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+</div>
 
 <h3 align="center">💻 GitHub Stats</h3>
 
