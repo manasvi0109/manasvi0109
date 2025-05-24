@@ -1,19 +1,29 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&size=28&duration=3000&color=EC81D2&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Manasvi+Avadhanula!;Creative+Technologist+%7C+DevOps+Learner+%7C+Frontend+Dev;Designing+for+impact%2C+Coding+with+purpose!" />
-</p>
+<!-- ABOUT ME START -->
+
+## 🌸 About Me
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&center=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Manasvi!;Tech-Enthusiast+%7C+AI+Explorer+%7C+DevOps+Learner;Designer+%7C+Video+Editor+%7C+Creative+Thinker;Welcome+to+my+Futuristic+GitHub+Space!" alt="Typing SVG" />
+
+</div>
 
 ---
 
-<h3 align="center">✨ About Me ✨</h3>
+### ✨ A Glimpse Into My Universe
 
-💡 A multidisciplinary developer & designer  
-🎨 Aesthetics-obsessed front-end developer  
-⚙️ Currently exploring: DevOps, Linux, Jenkins & Docker  
-🛠️ Strong with UI/UX tools: Figma, Adobe Suite, After Effects  
-🏆 5x Hackathon Winner | Former Cultural Head  
-🎬 Video Editor | Creative Designer | Cloud Certified  
-🌐 My Portfolio: [manasvi0109.github.io/My_Portfolio](https://manasvi0109.github.io/My_Portfolio/)  
+```yaml
+name: Manasvi 🌸
+role: CSE-AIML Final Year Student 🎓
+interests:
+  - Cloud & DevOps ☁️🚀
+  - Generative AI & NLP 🤖🧠
+  - UI/UX Design 🎨
+  - Frontend Dev 💻
+  - Video Editing 🎞️
+  - Hackathons & Innovation 💡🏆
+goal: To build futuristic tech that solves real-world problems in India 🇮🇳
+
 
 📫 **Reach Me At:** `manasvi010903@gmail.com`
 
